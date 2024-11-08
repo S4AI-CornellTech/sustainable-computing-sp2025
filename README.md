@@ -1,25 +1,38 @@
-# ECE 6960: Sustainable Computing (Spring 2024)
+# ECE 6960: Sustainable Computing (Spring 2025)
 
 ## Description
 
-This graduate level course provides an overview of the holistic environmental
-impact of computing platforms over the course of their lifetime. Topics include
-life cycle analyses of computing devices, carbon footprint of computing,
-computer architecture and systems, renewable energy driven data centers,
-intermittent computing, sustainable applications (e.g., AI), and emerging
-technologies. We will understand how to evaluate and consider the holistic
-environmental impact of computing platforms including carbon, water, e-waste,
-and materials used. Through reading, analyzing, and discussing papers, and an
-open-ended project students will develop a holistic understanding of the
-environmental impact of computing and designing sustainable platforms.
+Are you ready to dive into the environmental footprint of AI and the digital
+world? In this graduate-level course, you’ll explore the entire lifecycle of
+computing platforms—from the raw materials mined to power your devices, all the
+way to their end-of-life disposal. This course goes beyond theory, offering a
+comprehensive look at how the technology we rely on every day impacts the
+planet.
+
+We’ll investigate key topics like the carbon footprint of computing,
+energy-efficient computer architectures, renewable-energy-powered data centers,
+and the growing challenges of e-waste and resource depletion. You’ll also
+explore innovative solutions in areas like AI-powered sustainability,
+intermittent computing, and cutting-edge technologies that aim to reduce our
+digital carbon footprint.
+
+Through case studies, hands-on projects, and in-depth analysis of scholarly
+articles, you'll learn to evaluate and measure the environmental impact of
+computing platforms—focusing on carbon emissions, water usage, e-waste, and
+material sustainability. By the end of the course, you’ll have a deeper,
+holistic understanding of how technology can evolve to minimize its
+environmental footprint and even help tackle global sustainability challenges.
+
+Join us to become a leader in the green computing revolution, and help shape
+the future of sustainable tech!
 
 ## Logistics
 
-- Room: Bloomberg Center 91 (Cornell Tech)
+- Room: Bloomberg Center 91 (Cornell Tech), Rhodes Hall 310 (Ithaca)
 - Time: Tuesdays and Thursdays at 1:25pm - 2:40pm
 - Please read the [syllabus](https://docs.google.com/document/d/1AGKVwIZsr1ShpKy45RxUUajoJ7oWBzBMvDzX8Bao_hM/edit?usp=sharing)
-- [Gradescope link](https://www.gradescope.com/courses/717488)
-- [Zoom link](https://cornell.zoom.us/meeting/tJcsdu2vqD4oGtIdIEv4ZeK0QmDzLq_qIimL/ics?icsToken=98tyKuCrrzouHdKQshmBRowqBYj4LO3wpiVBjbd0mDbAFXRpZyimB-9mKJ5uL8n5)
+- [Gradescope link]()
+- [Zoom link]()
 
 ## Course Staff
 
